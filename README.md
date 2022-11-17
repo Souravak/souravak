@@ -1,9 +1,4 @@
-### Hi there 👋
 
-
-**Souravak/souravak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Airpmo.co | Codechefmacechapter | Portfolio | Virtual Mouse | IBM QUANTUM FALL CHALLENGE
 - 🌱 I’m currently learning Blockchain, Solidity and Full Stack Web3 Development
