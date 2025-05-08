@@ -12,22 +12,25 @@
 
 
 <div>
-<img align="left" src="assets/me.jpg" alt="Profie Pic" width="310" />
+<img align="left" src="assets/me.jpg" alt="Profie Pic" width="300"/>
 
 ```javascript
 
 souravak@github
 -------------------------
 Pronouns : He/Him
-Location : India
-Languages: Python, JAVA, Springboot Microservices
+Location : Kochi, India
+Languages: Python, Java, C, C++, HTML, CSS, JavaScript.
 Framework: ReactSJ
+Databases: SQL, Firebase.
 
 Handles:
 -------
-Portfolio : [bit.ly/souravak]
-Linkedn   : sourav-ak
-Kaggle    : souravak
+Portfolio : https://bit.ly/souravak  
+LinkedIn  : https://www.linkedin.com/in/sourav-ak  
+GitHub    : https://github.com/souravak  
+Instagram : https://www.instagram.com/s.r.v.a.k/ | https://www.instagram.com/thedivinecaster/  
+YouTube   : https://www.youtube.com/@TheDIVINEcaste
 
                                  ▬▬▬.◙.▬▬▬
                                     ▂▄▄▓▄▄▂
