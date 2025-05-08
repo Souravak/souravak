@@ -5,7 +5,7 @@
  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-ak/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:souravak211@gmail.com)
-![](https://komarev.com/ghpvc/?username=souravak&color=green)
+![](https://komarev.com/ghpvc/?username=souravak&color=brightgreen&style=for-the-badge)
 
 <hr>
 </div>
