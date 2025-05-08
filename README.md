@@ -12,7 +12,7 @@
 
 
 <div>
-<img align="left" src="assets/profile-removedbg.png" alt="Profie Pic" width="310" />
+<img align="left" src="assets/me.jpg" alt="Profie Pic" width="310" />
 
 ```javascript
 
@@ -20,12 +20,12 @@ mohammedshibinv@github
 -------------------------
 Pronouns : He/Him
 Location : India
-Languages: Python, PHP, Javascript
-Framework: Django, Laravel, React, Flutter
+Languages: Python, JAVA, Springboot Microservices
+Framework: ReactSJ
 
 Handles:
 -------
-Portfolio : [https://souravak.github.io/portfolio-react/]
+Portfolio : [bit.ly/souravak]
 Linkedn   : sourav-ak
 Kaggle    : souravak
 
@@ -37,23 +37,3 @@ Kaggle    : souravak
 Lets Connect  =>                  ══╩══╩══
 ```
 </div>
-
-
-
-
-<!-- 
- <table align="center" width="100%" height="100%" >
-   <tr>
-     <td> 
-  
-![Github stats](https://github-readme-stats.vercel.app/api?username=MohdShibin&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
-     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&theme=radical&layout=compact)](https://github.com/MohdShibin) </td>
-   </tr>
-  </table>
-
-<hr>
-<h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=django,react,python,dart,flutter,laravel,firebase,bootstrap,html,css,figma,git,js,postman,php,mysql,github,gitlab" 
-</p>
- --> 
