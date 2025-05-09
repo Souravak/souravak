@@ -36,11 +36,7 @@ Youtube   : TheDIVINEcasteR
 
 Projects:
 --------
-ANPRPPS   : Python, OpenCV, Machine Learning, HTML, CSS, JavaScript, Firebase
-VCCCAH    : Python, PyAutoGUI, OpenCV, MediaPipe, WMI.
-ToDo App  : ReactJS
-Attendance Management System, Portfolio, Business portfolio
-
+PFA My Favorite Projects for your reference
 Lets Connect  =>                  
 ```
 </div>
