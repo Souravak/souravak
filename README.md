@@ -24,21 +24,23 @@ Location : Kochi, India
 Languages: Python, Java, C, C++, HTML, CSS, JavaScript.
 Framework: ReactJS
 Databases: SQL, Firebase.
-DevOps   : Kubernetes, Microsoft Azure
+DevOps   : Kubernetes, Microsoft Azure, PuTTy.
 
 Handles:
 -------
 Portfolio : [bit.ly/souravak]
-Linkedn   : sourav-ak
-Githhub   : souravak
+Linkedn   : linkedin.com/in/sourav-ak
+Githhub   : github.com/souravak
 Instagram : s.r.v.a.k | thedivinecaster
 Youtube   : TheDIVINEcasteR
 
-                                 ▬▬▬.◙.▬▬▬
-                                    ▂▄▄▓▄▄▂
-                                 ◢◤ █▀▀████▄▄▄▄__◢◤
-                                 █▄▂█ █▄███▀▀▀▀▀▀▀╬
-                                  ◥█████◤
-Lets Connect  =>                  ══╩══╩══
+Projects:
+--------
+ANPRPPS   : Python, OpenCV, Machine Learning, HTML, CSS, JavaScript, Firebase
+VCCCAH    : Python, PyAutoGUI, OpenCV, MediaPipe, WMI.
+ToDo App  : ReactJS
+Attendance Management System, Portfolio, Business portfolio
+
+Lets Connect  =>                  
 ```
 </div>
