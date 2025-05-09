@@ -35,8 +35,7 @@ Instagram : s.r.v.a.k | thedivinecaster
 Youtube   : TheDIVINEcasteR
 
 PFA My Favorite pinned projects for your reference
-Personal Page, Business Page, Attendance, ToDO App 
-ANPRPPS, Virtual Mouse
+Personal Page, Business Page, Attendance, ToDO App, ANPRPPS, Virtual Mouse
 
 Lets Connect  =>                  
 ```
