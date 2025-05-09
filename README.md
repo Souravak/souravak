@@ -34,9 +34,10 @@ Githhub   : github.com/souravak
 Instagram : s.r.v.a.k | thedivinecaster
 Youtube   : TheDIVINEcasteR
 
-Projects:
---------
-PFA My Favorite Projects for your reference
+PFA My Favorite pinned projects for your reference
+Personal Page, Business Page, Attendance, ToDO App 
+ANPRPPS, Virtual Mouse
+
 Lets Connect  =>                  
 ```
 </div>
