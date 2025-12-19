@@ -13,7 +13,7 @@
 
 
 <div>
-<img align="left" src="assets/me.jpg" alt="Profie Pic" width="300"/>
+<img align="left" src="assets/me2.png" alt="Profie Pic" width="300"/>
 
 ```javascript
 
