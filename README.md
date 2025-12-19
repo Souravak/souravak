@@ -17,7 +17,7 @@
 
 ```javascript
 
-souravak@github
+souravak@github.io
 -------------------------
 Pronouns : He/Him
 Location : Kochi, India
@@ -28,14 +28,15 @@ DevOps   : Kubernetes, Microsoft Azure, PuTTy.
 
 Handles:
 -------
-Portfolio : [bit.ly/souravak]
-Linkedn   : linkedin.com/in/sourav-ak
-Githhub   : github.com/souravak
+Portfolio : bit.ly/souravak
+Linkedn   : sourav-ak
+Githhub   : souravak
 Instagram : s.r.v.a.k | thedivinecaster
 Youtube   : TheDIVINEcasteR
+X         : srvak211
 
 PFA My Favorite pinned projects for your reference
-Personal Page, Business Page, Attendance, ToDO App, ANPRPPS, Virtual Mouse
+Personal & Business Page, Attendance System, ToDO App, ANPRPPS, Virtual Mouse
 
 Lets Connect  =>                  
 ```
