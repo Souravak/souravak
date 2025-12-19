@@ -21,10 +21,10 @@ souravak@github.io
 -------------------------
 Pronouns : He/Him
 Location : Kochi, India
-Languages: Python, Java, C, C++, HTML, CSS, JavaScript.
-Framework: ReactJS
-Databases: SQL, Firebase.
-DevOps   : Kubernetes, Microsoft Azure, PuTTy.
+Frontend : React, JavaScript (ES6), HTML5, CSS3.
+Backend  : Django, Python, REST APIs.
+Databases: SQL, Firebase, MongoDB, PostgreSQL
+DevOps   : Kubernetes, Microsoft Azure
 
 Handles:
 -------
@@ -36,7 +36,7 @@ Youtube   : TheDIVINEcasteR
 X         : srvak211
 
 PFA My Favorite pinned projects for your reference
-Personal & Business Page, Attendance System, ToDO App, ANPRPPS, Virtual Mouse
+Personal & Business Page, Amazon Affiliate Portal, Ambadi Attendance System, ToDo App, ANPRPPS, Virtual Mouse
 
 Lets Connect  =>                  
 ```
