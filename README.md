@@ -33,10 +33,9 @@ Linkedn   : sourav-ak
 Githhub   : souravak
 Instagram : s.r.v.a.k | thedivinecaster
 Youtube   : TheDIVINEcasteR
-X         : srvak211
 
 PFA My Favorite pinned projects for your reference
-Personal & Business Page, Amazon Affiliate Portal, Ambadi Attendance System, ToDo App, ANPRPPS, Virtual Mouse
+Personal & Business Page, Amazon Affiliate Portal, Ambadi Attendance System, ToDo App, ANPRPPS, Virtual Mouse.
 
 Lets Connect  =>                  
 ```
