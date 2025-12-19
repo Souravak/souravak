@@ -1,7 +1,7 @@
 <div align="center" width="100%" height="100%" >
 
 <h2>Hola, I am Sourav 👋</h2>
-<h4>Associate Software Engineer | Tech YouTuber | Aspiring Full-Stack Developer & Innovator</h4>
+<h4>Associate Systems Engineer @ TCS | Full-Stack Developer | React & Django</h4>
 
  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-ak/)
